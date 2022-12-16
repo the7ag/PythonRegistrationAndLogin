@@ -1,0 +1,1 @@
+{"Firstname": "mohamed", "Lastname": "Ali", "Username": "the7ag", "Password": "gAAAAABjnC2Zj9GRSfvTpDHuCM_Ov1PtHggF5HXIHMfWck_FoXaPwHuGokBJGPnCMsdwI7COnEmJd4LlQGShALuG-I2UcXro3w==", "Email": "the7ag22477@gmail.com", "Phone": "01027961546", "Birthday": "2000-12-2", "Age": 22}
