@@ -11,6 +11,12 @@ with password encryption and fully working database
 ## FlowChart
 [AppFlow.pdf](https://github.com/the7ag/PythonRegistrationAndLogin/files/10244499/AppFlow.pdf)
 
+## Modules used
+- cryptography
+- json
+- datetime
+- re
+
 ## Features
 - Allow user creation and save his info
 - Encrypted user password in the database
